@@ -1,5 +1,11 @@
 package com.niu.study.designPattern;
 
+/**
+ * 单例模式：静态内部类
+ *
+ * @author niuqingsong
+ * @date 2021/4/7
+ */
 public class Singleton {
     //因为使用静态内部类，所以这里不需要定义成员变量；
 
